@@ -7,7 +7,7 @@ This project provides a web-based chat interface where users can interact with a
 
 ## 🚀 Features
 - Chat-like interface built with Streamlit  
-- AI responses powered by your preferred model/API (e.g., OpenAI API, Gemini API, Hugging Face)  
+- Supports latest gemini models (eg: gemini 2.5 flash... etc)
 - Clean, minimal UI  
 - Easy to deploy on Streamlit Cloud or locally  
 
